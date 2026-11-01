@@ -43,6 +43,16 @@ My public projects explore interactive AI applications and the computational fou
 
 ## Featured projects
 
+### [MortgageRiskLab](https://github.com/sophiayang1112/MortgageRiskLab)
+
+A reproducible mortgage-default classification project connecting **AI/ML, Finance, and Risk Management**. Includes preprocessing, six model comparisons, validation-based risk thresholds, holdout evaluation, feature importance, customer segmentation, and saved-model prediction.
+
+**Python · scikit-learn · pandas · Financial Risk Analytics**
+
+Uses clearly labeled synthetic data. Includes executed results, charts, and automated tests; no real borrower data or production credit-performance claim.
+
+[Explore the project](https://github.com/sophiayang1112/MortgageRiskLab)
+
 <table>
 <tr>
 <td valign="top" width="50%">
