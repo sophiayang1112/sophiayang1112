@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm interested in the intersection of AI, software engineering, and finance. My portfolio explores interactive AI applications and the numerical building blocks behind machine learning systems.
+I'm interested in the intersection of AI, machine learning, and finance. My portfolio explores interactive AI applications and the numerical building blocks behind machine learning systems.
 
 - **AI applications:** conversational experiences, speech interfaces, and multimodal interaction.
 - **ML & deep learning:** embeddings, vector similarity, tensor operations, and GPU computing.
@@ -80,4 +80,4 @@ CPU tests pass; GPU execution remains to be validated on compatible hardware.
 
 ---
 
-<p align="center">Interested in opportunities across AI, ML, software engineering, and financial technology.</p>
+<p align="center">Interested in opportunities across AI, ML, deep learning, and financial technology.</p>
