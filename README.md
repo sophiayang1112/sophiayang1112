@@ -49,7 +49,7 @@ My public projects explore interactive AI applications and the computational fou
 | **[FraudSignalProject](https://github.com/sophiayang1112/FraudSignalProject)** | Loan-fraud scoring, review prioritization, and transaction-history analysis | Logistic regression, random forest, LightGBM, SMOTENC, customer-disjoint evaluation |
 | **[MortgageRiskProject](https://github.com/sophiayang1112/MortgageRiskProject)** | Mortgage-default classification, risk thresholds, and customer segmentation | Six model comparisons, PCA, K-means, t-SNE, feature interpretation |
 | **[GPU Programming · Vector Search](https://github.com/sophiayang1112/GPUProgrammingVectorSearch)** | Exact vector retrieval and numerical computing | NumPy reference, custom CUDA kernels, batched search, reproducible benchmarks |
-| **[AIEducation](https://github.com/sophiayang1112/AIEducation)** | Conversational AI with speech, vision-assisted tutoring, and local memory | Python, JavaScript, SQLite, and AI APIs; collaborative project |
+| **[AIEducationProject](https://github.com/sophiayang1112/AIEducationProject)** | Conversational AI with speech, vision-assisted tutoring, and local memory | Python, JavaScript, SQLite, and AI APIs; collaborative project |
 
 The financial-risk projects include reproducible synthetic datasets, measured results, and automated tests. FinTextRiskProject publishes offline fusion results; live LLM execution is tracked separately. GPUProgrammingVectorSearch includes CPU validation and optional GPU tests; CUDA execution is pending validation on compatible hardware.
 
