@@ -45,11 +45,11 @@ My public projects explore interactive AI applications and the computational fou
 
 ### [FraudSignalLab](https://github.com/sophiayang1112/FraudSignalLab)
 
-An independently implemented loan-fraud analytics project combining point-in-time transaction features, SMOTENC, logistic regression, random forest, and LightGBM, with customer-disjoint evaluation and a shared training/inference workflow.
+Loan fraud detection and risk analytics combining transaction-history features, SMOTENC, logistic regression, random forest, and LightGBM. Includes model comparison, review prioritization, feature interpretation, and batch scoring.
 
 **Python · scikit-learn · LightGBM · Imbalanced Learning · Risk Analytics**
 
-Uses synthetic data, executed results, and nine integrity tests. Includes method references and implementation provenance; no real customer data or production-performance claim.
+Customer-disjoint evaluation, reproducible synthetic datasets, four result visualizations, and nine automated integrity tests.
 
 [Explore the project](https://github.com/sophiayang1112/FraudSignalLab)
 
