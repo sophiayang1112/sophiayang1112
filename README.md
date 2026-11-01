@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Hi, I'm Sophia Yang</h1>
-<p align="center"><strong>AI · Machine Learning · Deep Learning · Finance</strong></p>
-<p align="center">Exploring how intelligent systems and numerical computing can turn data into useful decisions.</p>
+<p align="center"><strong>AI · Machine Learning · Deep Learning · Fintech · Risk Assessment</strong></p>
+<p align="center">Exploring practical AI applications in fintech, risk assessment, and data-informed decision-making.</p>
 
 <p align="center">
   <a href="https://github.com/sophiayang1112?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
@@ -12,11 +12,11 @@
 
 ## About me
 
-I'm interested in the intersection of AI, machine learning, and finance. My portfolio explores interactive AI applications and the numerical building blocks behind machine learning systems.
+I'm interested in applying AI, machine learning, and deep learning to fintech and risk assessment. My portfolio explores practical AI applications and the numerical building blocks behind machine learning systems.
 
 - **AI applications:** conversational experiences, speech interfaces, and multimodal interaction.
 - **ML & deep learning:** embeddings, vector similarity, tensor operations, and GPU computing.
-- **Finance interests:** quantitative analysis, financial data, and applications of machine learning to financial decision-making.
+- **Fintech & risk assessment:** exploring AI applications for financial analytics, risk evaluation, and decision support.
 - **Engineering approach:** clear documentation, reproducible examples, correctness checks, and explicit limitations.
 
 ## Skills & focus
@@ -37,7 +37,7 @@ I'm interested in the intersection of AI, machine learning, and finance. My port
 | Artificial intelligence | LLM APIs, conversational applications, speech recognition, speech synthesis, vision-assisted interaction |
 | Machine learning & deep learning | Embedding retrieval, cosine similarity, matrix operations, normalization, GPU kernels |
 | Software & data | Python, JavaScript, NumPy, SQLite, browser audio, local API services |
-| Finance | Interest in quantitative research, financial analytics, risk, and data-informed decisions |
+| Fintech & risk assessment | Financial analytics, risk evaluation, and practical AI applications for decision support |
 
 ## Featured projects
 
@@ -74,10 +74,10 @@ CPU tests pass; GPU execution remains to be validated on compatible hardware.
 
 ## What I'm exploring next
 
-- Connecting AI and machine learning methods with financial data problems.
+- Applying AI and machine learning to fintech and risk assessment.
 - Understanding the tradeoffs between numerical correctness, latency, and memory use.
 - Turning small prototypes into well-documented, reproducible software.
 
 ---
 
-<p align="center">Interested in opportunities across AI, ML, deep learning, and financial technology.</p>
+<p align="center">Interested in opportunities across AI, ML, deep learning, fintech, risk assessment, and applied AI.</p>
