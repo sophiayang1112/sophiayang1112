@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sophia Yang | Artificial Intelligence, Machine Learning, Deep Learning and Finance" width="100%" />
+  <img src="assets/banner.svg" alt="Sophia Yang | AI/ML, Finance and Risk Management" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Sophia Yang</h1>
-<p align="center"><strong>AI · Machine Learning · Deep Learning · Fintech · Risk Assessment</strong></p>
-<p align="center">Exploring practical AI applications in fintech, risk assessment, and data-informed decision-making.</p>
+<p align="center"><strong>AI/ML · Finance · Risk Management</strong></p>
+<p align="center">Connecting AI/ML with financial knowledge and risk management to develop practical applications in financial services and fintech.</p>
 
 <p align="center">
   <a href="https://github.com/sophiayang1112?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
@@ -12,12 +12,13 @@
 
 ## About me
 
-I'm interested in applying AI, machine learning, and deep learning to fintech and risk assessment. My portfolio explores practical AI applications and the numerical building blocks behind machine learning systems.
+My focus brings together three domains: **AI/ML, Finance, and Risk Management**. I'm interested in translating AI capabilities into useful applications for financial analysis, risk assessment, and decision support in financial services and fintech.
 
-- **AI applications:** conversational experiences, speech interfaces, and multimodal interaction.
-- **ML & deep learning:** embeddings, vector similarity, tensor operations, and GPU computing.
-- **Fintech & risk assessment:** exploring AI applications for financial analytics, risk evaluation, and decision support.
-- **Engineering approach:** clear documentation, reproducible examples, correctness checks, and explicit limitations.
+- **AI/ML:** machine learning, deep learning, LLM applications, and numerical computing.
+- **Finance:** financial analysis, quantitative methods, and data-informed financial decisions.
+- **Risk Management:** risk assessment, controls, governance, and responsible AI adoption in financial services.
+
+My public projects explore interactive AI applications and the computational foundations of machine learning. I value clear documentation, reproducible examples, and careful validation.
 
 ## Skills & focus
 
@@ -32,12 +33,13 @@ I'm interested in applying AI, machine learning, and deep learning to fintech an
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
-| Area | Topics in my portfolio and interests |
+| Core domain | Focus |
 | :--- | :--- |
-| Artificial intelligence | LLM APIs, conversational applications, speech recognition, speech synthesis, vision-assisted interaction |
-| Machine learning & deep learning | Embedding retrieval, cosine similarity, matrix operations, normalization, GPU kernels |
-| Software & data | Python, JavaScript, NumPy, SQLite, browser audio, local API services |
-| Fintech & risk assessment | Financial analytics, risk evaluation, and practical AI applications for decision support |
+| **AI/ML** | Machine learning, deep learning, LLMs, multimodal interaction, embedding retrieval, and GPU computing |
+| **Finance** | Financial analytics, quantitative analysis, and practical applications in fintech |
+| **Risk Management** | Risk assessment, controls, governance, and AI-supported decision-making in financial services |
+
+**Project toolkit:** Python, JavaScript, NumPy, SQLite, browser audio, AI APIs, and custom CUDA kernels.
 
 ## Featured projects
 
@@ -74,10 +76,10 @@ CPU tests pass; GPU execution remains to be validated on compatible hardware.
 
 ## What I'm exploring next
 
-- Applying AI and machine learning to fintech and risk assessment.
+- Applying AI/ML to financial analysis, risk assessment, and decision support.
 - Understanding the tradeoffs between numerical correctness, latency, and memory use.
-- Turning small prototypes into well-documented, reproducible software.
+- Exploring responsible AI applications in financial services and fintech.
 
 ---
 
-<p align="center">Interested in opportunities across AI, ML, deep learning, fintech, risk assessment, and applied AI.</p>
+<p align="center">AI/ML · Finance · Risk Management | Applications in financial services and fintech</p>
