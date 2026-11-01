@@ -43,6 +43,16 @@ My public projects explore interactive AI applications and the computational fou
 
 ## Featured projects
 
+### [FraudSignalLab](https://github.com/sophiayang1112/FraudSignalLab)
+
+An independently implemented loan-fraud analytics project combining point-in-time transaction features, SMOTENC, logistic regression, random forest, and LightGBM, with customer-disjoint evaluation and a shared training/inference workflow.
+
+**Python · scikit-learn · LightGBM · Imbalanced Learning · Risk Analytics**
+
+Uses synthetic data, executed results, and nine integrity tests. Includes method references and implementation provenance; no real customer data or production-performance claim.
+
+[Explore the project](https://github.com/sophiayang1112/FraudSignalLab)
+
 ### [MortgageRiskLab](https://github.com/sophiayang1112/MortgageRiskLab)
 
 A reproducible mortgage-default classification project connecting **AI/ML, Finance, and Risk Management**. Includes preprocessing, six model comparisons, validation-based risk thresholds, holdout evaluation, feature importance, customer segmentation, and saved-model prediction.
