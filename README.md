@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sophia Yang | AI/ML, Finance and Risk Management" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Sophia Yang | AI/ML, Finance and Risk Management" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Sophia Yang</h1>

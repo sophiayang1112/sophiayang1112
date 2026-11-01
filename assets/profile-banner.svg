@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Sophia Yang | AI/ML, Finance, Risk Management</title>
+<desc id="desc">Sophia Yang's profile banner. Three core domains: AI/ML, Finance and Risk Management. Practical applications in financial services and fintech.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1428"/><stop offset="1" stop-color="#132b40"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#68dafa"/><stop offset="1" stop-color="#6ee7bf"/></linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b4d8ef" opacity=".1"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="24" fill="url(#background)"/>
+<rect width="1200" height="400" rx="24" fill="url(#dots)"/>
+<path d="M950 0L1200 250M1025 0L1200 175" stroke="#6ee7bf" stroke-opacity=".08" stroke-width="40"/>
+<rect x="52" y="44" width="48" height="4" rx="2" fill="url(#accent)"/>
+<text x="52" y="114" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" fill="#f2f7ff">Sophia Yang</text>
+<text x="54" y="151" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#aabed6">Connecting intelligent systems, financial insight, and risk-aware decisions.</text>
+
+<g font-family="Segoe UI,Arial,sans-serif">
+  <rect x="52" y="190" width="352" height="128" rx="16" fill="#132d49" stroke="#2b506c"/>
+  <g stroke="#7cdbff" stroke-width="2" fill="#132d49"><path d="M80 224L100 213 119 225 100 240 80 224M100 213V240M80 224V247L100 260 119 247V225M100 240V260" fill="none"/><circle cx="80" cy="224" r="3"/><circle cx="100" cy="213" r="3"/><circle cx="119" cy="225" r="3"/><circle cx="100" cy="240" r="3"/></g>
+  <text x="142" y="239" font-size="27" font-weight="700" fill="#d5f2ff">AI/ML</text>
+  <text x="78" y="289" font-size="16" fill="#adc5db">Applied AI · Machine &amp; Deep Learning</text>
+
+  <rect x="424" y="190" width="352" height="128" rx="16" fill="#142d3b" stroke="#305461"/>
+  <g stroke="#6ee7bf" stroke-width="2.5" fill="none"><path d="M452 256V216M452 256H496M459 244L470 234 480 238 495 219"/><path d="M486 219H495V228"/></g>
+  <text x="515" y="239" font-size="27" font-weight="700" fill="#d4f8e9">Finance</text>
+  <text x="450" y="289" font-size="16" fill="#adc5c9">Financial Analysis · Fintech Applications</text>
+
+  <rect x="796" y="190" width="352" height="128" rx="16" fill="#202941" stroke="#454e70"/>
+  <g stroke="#b8b7ff" stroke-width="2.5" fill="none"><path d="M843 212L861 220V235Q861 250 843 260Q825 250 825 235V220Z"/><path d="M834 235L841 242 853 227"/></g>
+  <text x="879" y="239" font-size="26" font-weight="700" fill="#e7e6ff">Risk Management</text>
+  <text x="822" y="289" font-size="16" fill="#bac2dc">Assessment · Controls · Governance</text>
+</g>
+<path d="M404 254H424M776 254H796" stroke="url(#accent)" stroke-width="2"/>
+<text x="600" y="365" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2" fill="#96b1ca">PRACTICAL APPLICATIONS IN FINANCIAL SERVICES &amp; FINTECH</text>
+</svg>
