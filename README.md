@@ -43,7 +43,7 @@ My public projects explore interactive AI applications and the computational fou
 
 ## Featured projects
 
-### [FraudSignalLab](https://github.com/sophiayang1112/FraudSignalLab)
+### [FraudSignalProject](https://github.com/sophiayang1112/FraudSignalProject)
 
 Loan fraud detection and risk analytics combining transaction-history features, SMOTENC, logistic regression, random forest, and LightGBM. Includes model comparison, review prioritization, feature interpretation, and batch scoring.
 
@@ -51,9 +51,9 @@ Loan fraud detection and risk analytics combining transaction-history features, 
 
 Customer-disjoint evaluation, reproducible synthetic datasets, four result visualizations, and nine automated integrity tests.
 
-[Explore the project](https://github.com/sophiayang1112/FraudSignalLab)
+[Explore the project](https://github.com/sophiayang1112/FraudSignalProject)
 
-### [MortgageRiskLab](https://github.com/sophiayang1112/MortgageRiskLab)
+### [MortgageRiskProject](https://github.com/sophiayang1112/MortgageRiskProject)
 
 A reproducible mortgage-default classification project connecting **AI/ML, Finance, and Risk Management**. Includes preprocessing, six model comparisons, validation-based risk thresholds, holdout evaluation, feature importance, customer segmentation, and saved-model prediction.
 
@@ -61,7 +61,7 @@ A reproducible mortgage-default classification project connecting **AI/ML, Finan
 
 Uses clearly labeled synthetic data. Includes executed results, charts, and automated tests; no real borrower data or production credit-performance claim.
 
-[Explore the project](https://github.com/sophiayang1112/MortgageRiskLab)
+[Explore the project](https://github.com/sophiayang1112/MortgageRiskProject)
 
 <table>
 <tr>
@@ -80,7 +80,7 @@ A personal assignment completed with collaboration.
 </td>
 <td valign="top" width="50%">
 
-### [VectorRankLab](https://github.com/sophiayang1112/VectorRankLab)
+### [VectorRankProject](https://github.com/sophiayang1112/VectorRankProject)
 
 Exact batched vector retrieval with a NumPy reference, custom CUDA kernels, deterministic ranking, and reproducible benchmarks.
 
@@ -88,7 +88,7 @@ Exact batched vector retrieval with a NumPy reference, custom CUDA kernels, dete
 
 CPU tests pass; GPU execution remains to be validated on compatible hardware.
 
-[Explore the implementation →](https://github.com/sophiayang1112/VectorRankLab)
+[Explore the implementation →](https://github.com/sophiayang1112/VectorRankProject)
 
 </td>
 </tr>
