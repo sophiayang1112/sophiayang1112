@@ -46,6 +46,7 @@ My public projects explore interactive AI applications and the computational fou
 
 | Project | Focus | Methods & tools |
 | :--- | :--- | :--- |
+| **[DailyMarketReportProject](https://github.com/sophiayang1112/DailyMarketReportProject)** | Daily investment-research reporting across equities, sectors, bonds, FX, commodities, alternatives and market risk | Live data adapters, financial analytics, block-trade imports, HTML/Markdown/JSON reports, and scheduled GitHub Actions |
 | **[CrossModalSentimentProject](https://github.com/sophiayang1112/CrossModalSentimentProject)** | Financial sentiment from timely updates and trending discussions | PyTorch, two-stage cross-attention, Transformers, MFB fusion, and an optional local BERT encoder |
 | **[FinTextRiskProject](https://github.com/sophiayang1112/FinTextRiskProject)** | Financial text mining, evidence-grounded risk assessment, and model governance | As-of retrieval, feature fusion, calibration, uncertainty sets, audit trails, and optional local LLM integration |
 | **[FraudSignalProject](https://github.com/sophiayang1112/FraudSignalProject)** | Loan-fraud scoring, review prioritization, and transaction-history analysis | Logistic regression, random forest, LightGBM, SMOTENC, customer-disjoint evaluation |
