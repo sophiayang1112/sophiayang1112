@@ -41,58 +41,16 @@ My public projects explore interactive AI applications and the computational fou
 
 **Project toolkit:** Python, JavaScript, NumPy, SQLite, browser audio, AI APIs, and custom CUDA kernels.
 
-## Featured projects
+## Selected projects
 
-### [FraudSignalProject](https://github.com/sophiayang1112/FraudSignalProject)
+| Project | Focus | Methods & tools |
+| :--- | :--- | :--- |
+| **[FraudSignalProject](https://github.com/sophiayang1112/FraudSignalProject)** | Loan-fraud scoring, review prioritization, and transaction-history analysis | Logistic regression, random forest, LightGBM, SMOTENC, customer-disjoint evaluation |
+| **[MortgageRiskProject](https://github.com/sophiayang1112/MortgageRiskProject)** | Mortgage-default classification, risk thresholds, and customer segmentation | Six model comparisons, PCA, K-means, t-SNE, feature interpretation |
+| **[VectorRankProject](https://github.com/sophiayang1112/VectorRankProject)** | Exact vector retrieval and numerical computing | NumPy reference, custom CUDA kernels, batched search, reproducible benchmarks |
+| **[AIEducation](https://github.com/sophiayang1112/AIEducation)** | Conversational AI with speech, vision-assisted tutoring, and local memory | Python, JavaScript, SQLite, and AI APIs; collaborative project |
 
-Loan fraud detection and risk analytics combining transaction-history features, SMOTENC, logistic regression, random forest, and LightGBM. Includes model comparison, review prioritization, feature interpretation, and batch scoring.
-
-**Python · scikit-learn · LightGBM · Imbalanced Learning · Risk Analytics**
-
-Customer-disjoint evaluation, reproducible synthetic datasets, four result visualizations, and nine automated integrity tests.
-
-[Explore the project](https://github.com/sophiayang1112/FraudSignalProject)
-
-### [MortgageRiskProject](https://github.com/sophiayang1112/MortgageRiskProject)
-
-A reproducible mortgage-default classification project connecting **AI/ML, Finance, and Risk Management**. Includes preprocessing, six model comparisons, validation-based risk thresholds, holdout evaluation, feature importance, customer segmentation, and saved-model prediction.
-
-**Python · scikit-learn · pandas · Financial Risk Analytics**
-
-Uses clearly labeled synthetic data. Includes executed results, charts, and automated tests; no real borrower data or production credit-performance claim.
-
-[Explore the project](https://github.com/sophiayang1112/MortgageRiskProject)
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### [AIEducation](https://github.com/sophiayang1112/AIEducation)
-
-An AI learning companion combining speech interaction, camera-assisted tutoring, multiple characters, and local conversation memory.
-
-**Built with:** Python · JavaScript · SQLite · AI APIs
-
-A personal assignment completed with collaboration.
-
-[Explore the application →](https://github.com/sophiayang1112/AIEducation)
-
-</td>
-<td valign="top" width="50%">
-
-### [VectorRankProject](https://github.com/sophiayang1112/VectorRankProject)
-
-Exact batched vector retrieval with a NumPy reference, custom CUDA kernels, deterministic ranking, and reproducible benchmarks.
-
-**Built with:** Python · NumPy · CUDA · CuPy integration
-
-CPU tests pass; GPU execution remains to be validated on compatible hardware.
-
-[Explore the implementation →](https://github.com/sophiayang1112/VectorRankProject)
-
-</td>
-</tr>
-</table>
+The financial-risk projects include reproducible synthetic datasets, measured results, and automated tests. VectorRankProject includes CPU validation and optional GPU tests; CUDA execution is pending validation on compatible hardware.
 
 ## What I'm exploring next
 
