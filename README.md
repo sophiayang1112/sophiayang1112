@@ -24,6 +24,7 @@ My public projects explore interactive AI applications and the computational fou
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS" />
@@ -39,12 +40,13 @@ My public projects explore interactive AI applications and the computational fou
 | **Finance** | Financial analytics, quantitative analysis, and practical applications in fintech |
 | **Risk Management** | Risk assessment, controls, governance, and AI-supported decision-making in financial services |
 
-**Project toolkit:** Python, JavaScript, NumPy, SQLite, browser audio, AI APIs, and custom CUDA kernels.
+**Project toolkit:** Python, PyTorch, JavaScript, NumPy, SQLite, browser audio, AI APIs, and custom CUDA kernels.
 
 ## Selected projects
 
 | Project | Focus | Methods & tools |
 | :--- | :--- | :--- |
+| **[CrossModalSentimentProject](https://github.com/sophiayang1112/CrossModalSentimentProject)** | Financial sentiment from timely updates and trending discussions | PyTorch, two-stage cross-attention, Transformers, MFB fusion, and an optional local BERT encoder |
 | **[FinTextRiskProject](https://github.com/sophiayang1112/FinTextRiskProject)** | Financial text mining, evidence-grounded risk assessment, and model governance | As-of retrieval, feature fusion, calibration, uncertainty sets, audit trails, and optional local LLM integration |
 | **[FraudSignalProject](https://github.com/sophiayang1112/FraudSignalProject)** | Loan-fraud scoring, review prioritization, and transaction-history analysis | Logistic regression, random forest, LightGBM, SMOTENC, customer-disjoint evaluation |
 | **[MortgageRiskProject](https://github.com/sophiayang1112/MortgageRiskProject)** | Mortgage-default classification, risk thresholds, and customer segmentation | Six model comparisons, PCA, K-means, t-SNE, feature interpretation |
